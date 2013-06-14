@@ -1,0 +1,40 @@
+Class 4
+4. Questions, Negatives & "To Be" 
+Fill the Blanks - Fill in the blank with an affirmative or negative short answer using the verb "to be." Use the conjunction when possible.
+QA;Are you from Spain? Yes, I am .;*I am, +we are
+QA;Is he intelligent? No, he isn't .;*he isn't
+QA;Are we friends? Yes, we are .;*we are
+QA;Are they at home yet? Yes, they are .;*they are
+QA;Is she alone? No, she isn't .;*she isn't
+QA;Are you from here? No, I'm not .;*I'm not
+QA;Is he in love with her? Yes, he is .;*he is
+QA;Are we interested in buying the apartment? Yes, we are .;*we are
+QA;Are the clothes at the cleaners? No, they aren't .;*they aren't
+QA;Is she with her friends? No, she isn't .;*she isn't
+Fill the Blanks - Fill in the blank with an affirmative or negative long answer. Use the contraction of the verb "to be."
+QA;Is that the book? Yes, it's the book .;*it's the book
+QA;Are Jessica and James busy? No, they aren't busy .;*they aren't busy
+QA;Is the football team good? Yes, it's good .;*it's good
+QA;Are we in San Franscisco? No, we aren't in San Francisco .;*we aren't in San Francisco
+QA;Are you a dancer? Yes, I'm a dancer .;*I'm a dancer
+QA;Is that the train ticket? Yes, it's the train ticket .;*it's the train ticket
+QA;Are Charlie and Billy brothers? No, they aren't brothers .;*they aren't brothers
+QA;Is the dentist gentle? Yes, he's gentle .;*he's gentle
+QA;Are we there yet? No, we aren't there yet .;*we aren't there yet
+QA;Are you a linguist? Yes, I'm a linguist .;*I'm a linguist
+QA;Are we going with you? No, you aren't going with us .;*you aren't going with us
+QA;Are you tired? Yes, I'm tired .;*I'm tired
+QA;Is that the road I take? Yes, it's the road you take .;*it's the road you take
+QA;Are the houses close? No, they aren't close .;*they aren't close
+QA;Is the baby a girl? Yes, she's a girl .;*she's a girl
+True or False - Choose whether the sentence about the verb "to be" is true or false.
+BIN;To ask a Yes-or-No question, we use the same verb tense but reverse the verb and the subject.;*True, False
+BIN;To say “Yes” we use the affirmative form. ;*True, False
+BIN;The short affirmative answer is just the subject plus the noun. ;True, *False
+BIN;For the question "Is she a student?" the affirmative short answer could be "No, she is.";True, *False
+BIN;A complete affirmative answer repeats all of the information in the question asked.;*True, False
+BIN;We use the word "not" before the verb “to be” in order to make it negative.;True, *False
+BIN;In the long answer, it’s also possible to say the verbs in their complete forms, like "I am not," "She is not," and "We are not." ;*True, False
+BIN;Affirmative short answers cannot use conjunctions.;*True, False
+BIN;"I am not" is an example of a short affirmative sentence.;True, *False
+BIN;"I'm" is an example of a short affirmative sentence.;True, *False

@@ -1,0 +1,36 @@
+Class 1
+Ecriture des chiffres - Ecris en lettres le nombre présenté entre parenthèses.
+FB;(30) trente ;trente
+FB;(23) vingt-trois ;vingt-trois
+FB;(41) quarante-et-un ;quarante-et-un
+FB;(18) dix-huit ;dix-huit
+FB;(16) seize;seize
+FB;(1) un ;un
+Question à choix multiple - Choisis l'article qui convient à chaque mot.
+MC;un ordinateur;*un, une, des
+MC;la porte;le, *la, l', les
+MC;l' hôpital;le, la, *l' , les
+MC;une chance;un, *une , des
+MC;une actrice;un, *une , des
+MC;un joueur;*un, une, des
+Compléter - Complète avec le verbe \"être\" conjugué à la personne qui convient.
+FB;Tu es grand.;es
+FB;Je suis à Nantes.;suis
+FB;Nous sommes indiens.;sommes
+FB;Elle est dans le salon.;est
+FB;Vous êtes patients.;êtes
+FB;Ils sont beaux.;sont
+Compléter - Complète avec le verbe \"avoir\" conjugué à la personne qui convient.
+FB;J' ai un vélo jaune.;ai
+FB;Elle a des bons résultats.;a
+FB;Elles ont du travail.;ont
+FB;J' ai un frère et une soeur.;ai
+FB;Tu as un blouson.;as
+FB;Vous avez un joli chien.;avez
+Compléter - Complète avec le verbe entre parenthèses conjugué à la personne qui convient.
+FB;Nous étudions (étudier) le français.;étudions
+FB;Vous parlez (parler) anglais?;parlez
+FB;J' aime (aimer) les pommes.;aime
+FB;Tu imprimes (imprimer);imprimes
+FB;Elle ferme (fermer) la porte.;ferme
+FB;Elles terminent (terminer) à 8 heures.;terminent

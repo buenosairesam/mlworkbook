@@ -1,0 +1,36 @@
+Class 1						
+Ejercicios de muestra						
+Opción multiple - Elige la opción correcta.
+MC;6;sies,sei,*seis
+MC;2;du,*dos,dus
+MC;12;diez y dos,duce,*doce
+MC;52;*cincuenta y dos,cinquentaidos,cincodos
+MC;38;treintaiocho,treintiocho,*treinta y ocho
+MC;154;cien y cincocuatro,*ciento cincuenta y cuatro,diez y cincuenta y cuatro
+Opción multiple - Elige la opción correcta.
+MC;moto;*la,el,lo
+MC;mapa;la,*el,lo
+MC;diente;*el,la,lo
+MC;estudiante;lo,le,*la
+MC;expediente;*el,la,lo
+MC;pirata;la,*el,lo
+MC;rata;lo,le,*la
+MC;actor;*el,la,lo
+MC;actriz;el,*la,lo
+MC;toro;la,lo,*el
+Completa el espacio - Completa el espacio en blanco con la conjugación del verbo ser.
+FB;Yo soy Ana.;soy
+FB;Nosotros somos Andrés y Julia.;somos
+FB;Ella es Julieta.;es
+FB;Él es Darío.;es
+FB;Vosotros sois buenos.;sois
+FB;Ustedes son mis amigos.;son
+Opción multiple - Elige la opción correcta.
+MC;Elena y Luis están en Filadelfia.;son,*están
+MC;Vanesa y Vanina son estudiantes de japonés.;*son,están
+MC;Luisa es enfermera.;está,*es
+MC;Pablo está en el parque.;es,*está
+MC;Juan y Andrés están cansados de trabajar.;*están,son
+MC;Pamela está contenta con su nuevo curso.;es,*está
+MC;Lucas y Lara están en la playa por el fin de semana.;*están,son
+MC;Lucía y sus amigos son muy simpáticos.;están,*son

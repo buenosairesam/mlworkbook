@@ -1,0 +1,825 @@
+Class 1
+1. The Alphabet
+True or False - Choose whether the sentence about the alphabet is true or false.
+BIN;There are 24 letters in the English alphabet.;True, *False
+BIN;There are 5 vowels and 21 consonents in the English alphabet.;*True, False
+BIN;\"Love\" has 2 vowels in it.;*True, False
+BIN;\"Kick\" has 2 consonents in it.;True, *False
+Consonent or Vowel- Choose whether the letter is a consonent or vowel.
+BIN;Z;*Consonent, Vowel
+BIN;E;Consonent, *Vowel
+BIN;J;*Consonent, Vowel
+BIN;D;*Consonent, Vowel
+BIN;A;Consonent, *Vowel
+BIN;G;*Consonent, Vowel
+BIN;P;*Consonent, Vowel
+BIN;O;Consonent, *Vowel
+BIN;B;*Consonent, Vowel
+BIN;X;*Consonent, Vowel
+BIN;I;Consonent, *Vowel
+BIN;C;*Consonent, Vowel
+BIN;U;Consonent, *Vowel
+BIN;L; *Consonent, Vowel
+BIN;F;*Consonent, Vowel
+
+Class 2
+2. Intro to English Grammar
+Fill the Blanks - Fill in the blanks to complete each sentence. Choose from the following words:  we, English, six, three, third, singular, plural.
+FBM;There are six subjects in English.;six, English
+FBM;There are three singular and three plural subjects.;three, 2three
+FBM;\"He\" is an example of a third person singular subject.;third, singular
+FBM;\"We\" is an example of a first person plural subject.;We, plural
+FBM;\"You\" can be second person singular and second person plural.;singular, plural
+Fill the Blanks - Fill in the blanks with the correct pronoun to complete each sentence.  
+FB;Jessica likes music. She likes music.;*She
+FB;The students study French. They study French.;*They
+FB;You and I are friends. We are friends.;*You
+FB;My brother is tall. He is tall.;*He
+FB;You and the team are fast. You are fast.;*You
+FB;Jackson is a cab driver. He is a cab driver.;*He
+FB;The ducks are hungry. They are hungry.;*They
+FB;You and I speak the same language. We speak the same language.;*I
+FB;My uncle is fat. He is fat.;*He
+FB;You and the other runners are slow. You are fast.;*You
+FB;My dog likes to eat the grass. She likes to eat the grass.;*She, +he
+FB;The grass is very tall. It is very tall. ;*It
+FB;You and I are enemies. We are enemies.;*We
+FB;The truck driver is a woman.She is a woman.;*She
+FB;You and your family are polite. You are polite.;*You
+Multiple Choice - Choose if each question represents a moment in the past, present or future.
+MC;Today;Past, *Present, Future
+MC;Yesterday;*Past, Present, Future
+MC;1995;*Past, Present, Future
+MC;Tomorrow;Past, Present, *Future
+MC;2046;Past, Present, *Future
+MC;Last summer;*Past, Present, Future
+MC;Next;Past, Present, *Future
+MC;In a few days;Past, Present, *Future
+MC;At the moment;Past, *Present, Future
+MC;Currently;Past, *Present, Future
+MC;1230;*Past, Present, Future
+MC;Three days ago;*Past, Present, Future
+MC;After;Past, Present, *Future
+MC;In a minute;Past, Present, *Future
+MC;At present;Past, *Present, Future
+
+Class 3
+3. Subject Pronouns & \"To Be\"
+Drag and Drop - Associate the subject with the correct verb form of \"To Be.\" 
+DND;I / am;
+DND;you (singular) / are;
+DND;she / is;
+DND;it / is;
+DND;he / is;
+DND;we / are;
+DND;you (plural) / are;
+DND;they / are;
+
+Fill the Blanks - Fill in the blanks with the correct conjugation of the verb \"To Be.\" 
+FB;I am nervous.;*am
+FB;You are a clown.;*are
+FB;She is a mountain biker.;*is
+FB;We are cousins.;*are
+FB;You are a great person.;*are
+FB;They are thin.;*are
+FB;My brother is fast.;*is
+FB;We are friends.;*are
+FB;John and Ron are cousins.;*are
+FB;The family is happy.;*is
+Fill the Blanks - Fill in the blanks with the correct conjugation of the verb \"To Be.\"
+FB;The dogs are quiet.;*are
+FB;I am from Italy.;*am
+FB;You are teachers.;*are
+FB;You are my teacher.;*are
+FB;I am from Madrid. ;*am
+FB;We are teachers. ;*are
+FB;They are too small. ;*are
+FB;He is handsome. ;*is
+FB;You are welcome. ;*are
+FB;She is my friend from school. ;*is
+Multiple Choice - Choose the correct form of the verb \"To Be\" to complete the sentence.
+MC;She is a queen.;am, are, *is
+MC;My mother is a doctor.;am, are, *is
+MC;It is a good job.;am, are, *is
+MC;He is a king.;am, are, *is
+MC;We are chemists.;am, *are, is
+MC;They are geologists.;am, *are, is
+MC;She is a student.;am, are, *is
+MC;He is a police officer;am, are, *is
+MC;We are researchers.;am, *are, is
+MC;He is an electrician.;am, are, *is
+Multiple Choice - Choose the correct form of the verb \"To Be\" to complete the sentence.
+MC;She is a good person.;am, are, *is
+MC;My friend is a janitor ;am, are, *is
+MC;It is a friendly dog.;am, are, *is
+MC;He is a chef.;am, are, *is
+MC;We are babysitters.;am, *are, is
+MC;They are mountain climbers.;am, *are, is
+MC;She is a sports agent.;am, are, *is
+MC;He is a fire fighter.;am, are, *is
+MC;We are marine biologists.;am, *are, is
+MC;He is an entertainment lawyer.;am, are, *is
+
+Class 4
+4. Questions, Negatives & \"To Be\" 
+Fill the Blanks - Fill in the blank with an affirmative or negative short answer using the verb \"To Be.\" Use the conjunction when possible.
+FB;Are you from Spain? Yes, I am .;*I am, +we are
+FB;Is he intelligent? No, he isn't .;*he isn't
+FB;Are we friends? Yes, we are .;*we are
+FB;Are they at home? Yes, they are .;*they are
+FB;Is she alone? No, she isn't;*she isn't
+FB;Are you from here? No, I'm not .;*I'm not
+FB;Is he in love? Yes, he is .;*he is
+FB;Are we interested? Yes, we are .;*we are
+FB;Are the clothes at the cleaners ? No,they aren't .;*they aren't
+FB;Is she with her friends? No, she isn't;*she isn't
+Fill the Blanks - Fill in the blank with an affirmative or negative long answer. Use the contraction of the verb \"To Be.\"
+FB;Is that the book? Yes, it's the book .;*it's the book
+FB;Are Jessica and James busy? No, they aren't busy .;*they aren't busy
+FB;Is the football team good? Yes, it's good .;*it's good
+FB;Are we in San Franscisco? No, we aren't in San Francisco .;*we aren't in San Francisco
+FB;Are you a dancer? Yes, I'm a dancer .;*I'm a dancer
+FB;Is that the train ticket? Yes, it's the book .;*it's the train ticket
+FB;Are Charlie and Billy brothers? No, they aren't brothers .;*they aren't brothers
+FB;Is the dentist gentle? Yes, he's gentle .;*he's gentle
+FB;Are we there yet? No, we aren't there yet .;*we aren't there yet
+FB;Are you a linguist? Yes, I'm a linguist .;*I'm a linguist
+FB;Are we going with you? No, you aren't going with us .;*you aren't going with us
+FB;Are you tired? Yes, I'm tired .;*I'm tired
+FB;Is that the road I take? Yes, it's the road you take .;*it's the road you take
+FB;Are the houses close? No, they aren't close .;*they aren't close
+FB;Is the dog a girl? Yes, she's a girl .;*she's a girl
+True or False - Choose whether the sentence about the verb \"To Be\" is true or false.
+BIN;To ask a Yes-or-No question, we use the same verb forms but we reverse the word order: verb + subject.;*True, False
+BIN;To say \"Yes\" we use the affirmative form. ;*True, False
+BIN;The short affirmative answer is just the subject plus the noun. ;True, *False
+BIN;For the question \"Is she a student?\" the affirmative short answer could be \"No, she is.\";True, *False
+BIN;The complete affirmative answer repeats all the information in the question asked.;*True, False
+BIN;We use the word \"Not\" before the verb \"To Be\" in order to make it negative.;True, *False
+BIN;In the long answer, it's also possible to say the verbs in their complete forms, like \"I am not,\" \"She is not\" and \"We are not.\" ;*True, False
+BIN;Affirmative short answers can not use conjunctions.;*True, False
+BIN;\"I am not\" is an example of a short affirmative sentence.;True, *False
+BIN;\"I'm\" is an example of a short affirmative sentence.;True, *False
+
+Class 5
+5. Numbers
+Multiple Choice - Choose the pair that match the number and its spelling.
+MC;1000;a hundred, one million, *a thousand 
+MC;10;two, *ten, twenty
+MC;17;*seventeen, twenty-seven, seven
+MC;15;twenty-five, five, *fifteen
+MC;24;two, twenty, *twenty-four
+MC;1000000;a thousand, one hundred, *a million
+MC;37;twenty-seven, thirty-five, *thirty-seven
+MC;1050;one thousand, one hundred, *one thousand fifty
+MC;76;sixty, *seventy-six, sixty-six
+MC;352;*three hundred fifty-two, thirty-five, thirteen
+MC;12;*twelve, two, twenty
+MC;1;won, 11, *one
+MC;0;Zed, *Zero, Oh
+MC;14;Forty, *Fourteen, Forty-Four 
+MC;123;one two three, Won hundred twenty-three, *One hundred twenty-three
+Multiple Choice - Choose the pair that match the number and its spelling.
+MC;thirty;13, *30, 33
+MC;Fifty;15, 5, *50
+MC;One hundred fifty-five;115, *155, 55
+MC;Six hundred Sixty;66, 606, *660
+MC;Eighty;88, *80, 8
+MC;Seven;6, *7, 70
+MC;Sixty-seven;70, 77, *67
+MC;Two hundred twenty-two;*222, 122, 2022
+MC;Five hundred and Fifty-six thousand;5500, 500056, *556000
+MC;Four hundred twenty-six thousand three hundred and seven;46307, *456307, 40607
+
+Class 6
+6. Nouns & Articles
+Fill the Blanks - Write the article \"A\" or \"An\" before each noun.
+FB;An elephant lays in the sun.;*An
+FB;A flower grows in the garden.;*A
+FB;His friend is a writer.;*a
+FB;An apple is a healthy snack.;*An
+FB;At the farm there is a horse.;*a
+FB;Monice is an anthropologist.;*an
+FB;George has an eye ache and will not be in work today;*an
+FB;Do you want to go for a run today?;*a
+FB;Give me an answer please.;*an
+FB;A good book is great on rainy days.;*A
+Fill the Blanks - Write the article \"A\" or \"An\" before each noun.
+FB;An apple fell from the tree.;*An
+FB;A cow eats grass in the meadow.;*A
+FB;His friend is a map maker.;*a
+FB;An eagle is a big bird.;*An
+FB;A man came for you today.;*a
+FB;Monay is an irritating work day.;*an
+FB;Is that an answer you want to hear?;*an
+FB;Let's go for a bike ride.;*a
+FB;Give me an accurate answer.;*an
+FB;A woman entered the room to speak with the bar tender.;*A
+True or False - Choose whether the sentence about nouns is true or false.
+BIN;A noun is a person, place, or thing.;*True, False
+BIN;Most nouns have a singular form and a plural form.;*True, False
+BIN;When a noun is singular, we use the article \"And.\" ;True, *False
+BIN;If the noun starts with a vowel or a vowel sound, we use the article \"An.\" ;*True, False
+BIN;To make a noun plural, we add an \"x\" to the end. ;True, *False
+BIN;Many nouns that end with \"y\" become \"ies\" in the plural.;*True, False
+BIN;\"Children\" is plural for \"Child.\";*True, False
+BIN;\"Mens\" is the plural for \"Man.\";True, *False
+BIN;\"Run\" is not a noun.;*True, False
+BIN;The plural of \"Man\" is \"Mans.\";True, *False
+BIN;When a noun is singular, we use the article \"An.\" ;True, *False
+BIN;If the noun starts with a consonent, we use the article \"A.\" ;*True, False
+BIN;To make a noun plural, we add an \"s\" to the end. ;*True, False
+BIN;Many nouns that end with \"e\" become \"ies\" in the plural.;True, *False
+BIN;Verbs that being with a vowel use the \"An\" article;True, *False
+
+Class 7
+7. Adjectives
+Sentence Order - Put the given words in the correct order. Keep in mind the correct placement of the adjective.
+SO;dog / is / The / brown The dog is brown .;*The dog is brown
+SO;brother / black / my / hair / has My brother has black hair .;*My brother has black hair
+SO;an / person / Laura / intelligent / is Laura is an intelligent person .;*Laura is an intelligent person
+SO;today / are / The / talkative / children The children are talkative today .;*The children are talkative today
+SO;insects / the / green / large / vegetables / The / eat The large insects eat the green vegetables .;*The large insects eat the green vegetables
+SO;bird / is / The / delicate The bird is delicate .;*The bird is delicate
+SO;wife / green / my / eyes / has My wife has green eyes .;*My wife has green eyes
+SO;not/ a / man / Landy / polite / is Landry is not a polite man .;*Landry is not a polite man
+SO;furocious / is / The / bear / polar The polar bear is furocious .;* The polar bear is furocious
+SO;toys / are / fun / messy / The The fun toys are messy .;*The fun toys are messy
+Multiple Choice - Choose the opposite adjective for each word.
+MC;Fat;short, *thin, pretty
+MC;Black;yellow, blue, *white
+MC;Happy;*sad, unique, cheerful
+MC;Dangerous;bad, loving, *safe
+MC;Tall;square, *short, skinny
+MC;Round;*square, oval, circle
+MC;Up;tall, high, *down
+MC;Delicious;tasty, flavorful, *gross
+MC;Evil;mean, obnoxious, *angelic
+MC;Dumb;*intelligent, idiotic, stupid
+Multiple Choice - Choose the synonym for each adjective.
+MC;Truthful;Dishonest, *Honest, Liar
+MC;Tidy;*Neat, Sloppy, Disorganized
+MC;Chatty;*Talkative, Quiet, Laconic
+MC;Calm;Hyper, Tired, *Relaxed
+MC;Industrious;Lazy, Disorganized, *Hardworking
+MC;Shy;*Timid, Nervous, Extroverted
+MC;Wise;Idiotic, *Knowledgeable, Pedantic
+MC;Selfish;*Stingy, Generous, Giving
+MC;Affectionate;Hateful, Distant, *Loving
+MC;Funny;*Humorous, Boring, Dull
+Fill the Blanks - Write the correct adjective for each sentence. Choose from the following adjectives: tired, pretty, generous, boring, talkative, quiet, nervous, short, blue, hyper.
+FB;I am tired and need a nap.;*tired
+FB;I am so nervous about the exam. I did not sleep at all last night.;*nervous
+FB;I am not short. I am the tallest in my family.;*short
+FB;My mother is so talkative. My father almost never gets to speak.;talkative
+FB;Blue eyes are the least common eye color.;*blue
+FB;He is quiet and enjoys meditating for many hours.;quiet
+FB;The pretty child always received compliments on her appearance.;*pretty
+FB;The movie was so boring I fell asleep.;*boring
+FB;The hyper child kept his babysitter on her feet all day. ;*hyper
+FB;He was not rich but he was very generous with the food he grew in the garden. He always shared it with his neighbors.;*generous
+
+Class 8
+8. Prepositions: \"in,\" \"at,\" \"on\"
+Fill the Blanks - Fill in the blanks with the correct preposition using \"In,\" \"At\" or \"On.\"
+FB;Pete is at the store.;*at
+FB;The food is on the table.;*on
+FB;I have a meeting at work.;*at
+FB;The child is in his bed.;*in, +on
+FB;My uncle works on a train.;*on
+FB;There is a credit card in my wallet.;*in
+FB;There is loud music at the party.;*at
+FB;The chicken is in the cage.;*in, +on
+FB;The country is in the Caribbean Sea. ;*in
+FB;There is a leaf on the Canadian flag.;*on
+FB;I am in the kitchen eating.;*in
+FB;Gee is at your house but no one is there.;*at
+FB;Betty is riding on the horse.;*on
+FB;There are puppies in the box.;*in
+FB;There are meatballs on the spaghetti.;*on
+Fill the Blanks - Fill in the blanks with the correct preposition using \"In,\" \"At\" or \"On.\"
+FB;Parents prefer their children in the house before it is dark.;*in
+FB;Put the groceries on the counter.;*on
+FB;Are you going in a car or on a bus?;*in
+FB;He will meet you at the store.;*at
+FB;We have a babysitter at the house.;*at
+FB;The man is in his library.;*in
+FB;Wally works on a boat.;*on
+FB;There is a rat in the garden.;*in
+FB;At the picnic, noone brought napkins.;*at
+FB;In the ocean there are many types of coral.;*in
+FB;The city is located in the northern part of the state.;*in
+FB;On top of her head she wore a beautiful vail.;*on
+FB;I am in the movie Jaw.;*in
+FB;At the carnival there were many women in masks and feathers.;*at
+FB;There are many birds resting on top of the cow's back.;*on
+Fill the Blanks - Fill in the blanks with the correct preposition using \"In,\" \"At\" or \"On.\"
+FBM;Did you leave the papers on your desk at the office?;*on, at
+FBM;In the living room there is a cat asleep on the sofa.;*In, on
+FBM;On their vacation, the couple saw poisonous snakes in the rainforest.;*On, in
+FBM;They are at your house waiting on the porch.;*at, on
+FBM;At the meeting there were four men in suits.;*At, in
+FBM;In Las Vegas you can walk on the road and see many casinos.;*In, on
+FBM;On their cruise the Moniz family saw many whales swimming in the ocean.;*On, in
+FBM;At church the women sing in the choir.;*At, in
+FBM;In the garage there are tools hanging on the wall.;*In, on
+FBM;On their way to work, the people on the bus were ill.;*On, on
+Fill the Blanks - Fill in the blanks with the correct preposition using \"In,\" \"At\" or \"On.\"
+FBM;Go in my office and put the check on the desk.;*in, on
+FBM;I am going on an adventure at sea.;*on, at
+FBM;In the basement there is water on the rug.;*In, on
+FBM;At his house they have a Christmas tree on the front porch.;*at, on
+FBM;At the casinos there are policemen not in uniform.;*At, in
+FBM;In the bank there are lollypops on the counters for children.;*In, on
+FBM;On their vacation the newly married couple spent many nights in their hotel.;*On, in
+FBM;At my wedding the women were dressed in yellow.;*At, in
+FBM;In the garden there are bugs on the flower.;*In, on
+FBM;On their way to the doctors, the baby vommitted on the taxi driver.;*On, on
+
+Class 9
+9. \"There is\" / \"There are\"
+Sentence Transformation - Turn each \"There is\" / \"There are\" statement into a question.
+ST;There are sandwiches on the counter. Are there sandwiches on the counter ?;*Are there sandwiches on the counter
+ST;There is a DVD in the DVD player. Is there a DVD in the DVD player ?;*Is there a DVD in the DVD player
+ST;There are a lot of people at the aquarium. Are there a lot of people at the aquarium ?;*Are there a lot of people at the aquarium
+ST;There is a bat in the the tree. Is there a bat in the tree ?;*Is there a bat in the tree
+ST;There are two men on the roof. Are there two men on the roof ?;*Are there two men on the roof
+ST;There are sandwiches on the counter. Are there sandwiches on the counter ?;*Are there sandwiches on the counter
+ST;There is a DVD in the DVD player. Is there a DVD in the DVD player ?;*Is there a DVD in the DVD player
+ST;There are a lot of people at the aquarium. Are there a lot of people at the aquarium ?;*Are there a lot of people at the aquarium
+ST;There is a bat in the the tree. Is there a bat in the tree ?;*Is there a bat in the tree
+ST;There are a dozen cookies in the box. Are there a dozen cookies in the box ?;*Are there a dozen cookies in the box
+Multiple Fill the Blanks - Fill in the blanks to complete the sentence using the correct preposition \"In,\" \"At\" or \"On\" and \"There is\" / \"There are.\" 
+FBM;There are three trains at 7:00 pm.;*are, at
+FBM;Is there a red shirt in the closet?;*Is, in
+FBM;On the plate there are four cookies.;*On, are
+FBM;At the university there is a pool.;*At, is
+FBM;There is a park in my neighborhood.;*is, in
+FBM;There are many things you need to learn in this life.;*are, in
+FBM;At the reunion there are people discussing their past.;*At, are
+FBM;There is a woman at the store buying shoes.;*is, at
+FBM;On the boat there are two men vommiting.;*On, are
+FBM;Is there even a slice of pizza left in the box?;*Is, in
+Multiple Fill the Blanks - Fill in the blanks to complete the sentence using the correct preposition \"In,\" \"At\" or \"On\" and \"There is\" / \"There are.\" 
+FBM;There are many people at the park.;*are, at
+FBM;Is there a dirty bowl in the sink?;*Is, in
+FBM;On the deck there are two beach chairs.;*On, are
+FBM;At the camp ground there is a lake.;*At, is
+FBM;There is a clean shirt in your drawer.;*is, in
+FBM;There are many important people you should meet with at the conference.;*are, in
+FBM;At the funeral there are people crying.;*At, are
+FBM;There is a little girl at the diner drinking a strawberry milk.;*is, at
+FBM;On the rollercoaster there are two crying children.;*On, are
+FBM;Is there even a chance the team will play in the playoffs?;*Is, in
+
+Class 10
+10. The Verb \"To Have\"
+Drag and Drop - Associate the subject with its conjugation using the verb \"To Have.\"
+DND;I / have;
+DND;you / have;
+DND;he / has;
+DND;she / has;
+DND;it / has;
+DND;we / have;
+DND;you (plural) / have;
+DND;they / have;
+Fill the Blanks - Fill in the blanks with the correct conjugation of the verb \"To Have.\"
+FB;I have too many things to do today.;*have
+FB;Joan and Kelvin have five children.;*have
+FB;The coffee has a bold flavor.;*has
+FB;You have to be more responsible with your money.;*have
+FB;Shelly has a black eye.;*has
+FB;The car has a broken headlight.;*has
+FB;Will you, the graduating class of 2014, have a bright future? ;*have
+FB;He only has 10 minutes.;*has
+FB;We have a television but we never watch it.;*have
+FB;Does the green car have gas in it?;*have
+Sentence Construction - Use the given words to construct a complete and correct sentence. Remember to conjugate the verb \"To Have.\"
+SC;soccer / to have / I / a / ball I have a soccer ball .;I have a soccer ball 
+SC;computers / your / You / in / to have / room You have computers in your room .;You have computers in your room
+SC;from / an / We / English / to have / teacher / London We have an English teacher from London .;We have an English teacher from London
+SC;to have / The / a / throat / teacher / sore The teacher has a sore throat .;The teacher has a sore throat
+SC;hampster / classroom / have / in / a / They / the They have a hampster in the classroom . ;They have a hampster in the classroom 
+SC;to have / own / We / our / lives We have our own lives .;We have our own lives 
+SC;piece / to have / cake / Will / a / you / of Will you have a piece of cake ?;Will you have a piece of cake
+SC;good / teacher / to have / reputation / a / dance / The The dance teacher has a good reputation .;The dance teacher has a good reputation
+SC;Dera / too / to have / many / goals / impossible Dera has too many impossible goals .;Dera has too many impossible goals
+SC;in / doesn't / legs / feeling / his / He / to have He doesn't have feeling in his legs .;He doesn't have feeling for her 
+
+Class 11
+11. Possessive Adjectives
+Fill the Blanks - Fill in the blanks with the correct possessive adjective.
+FB;I have a car. My car is blue.;My
+FB;Dan has an appointment with the dentist. His appointment is at noon.;His
+FB;We have a beach house. Our house is in Dominican Republic.;Our
+FB ;They have two children. Their children never visit the house.;Their
+FB;The computer is on the table. Its monitor is broken.;Its
+FB;Kerri has a meeting at work. Her meeting is in the morning.;Her
+FB;We have a new car. Our car is a Toyota.;Our
+FB ;They have never traveled. Their only vacation has been to the town five minutes from their house.;Their
+FB;Jolie is an accountant. Her accounts are all with international agencies.;Her
+FB;We are moving because our neighborhood is getting dangerous.;Our
+Sentence Transformation - Correct the mistakes in these sentences.
+ST;Denis have a dog. Denis has a dog .;*Denis has a dog
+ST;Nikita's and Cloe's car is new. Nikita and Cloe's car is new .;*Nikita and Cloe's car is new
+ST;She clothes are stylish. Her clothes are stylish .;*Her clothes are stylish
+ST;Donaldos black hat is lost in his room. Donaldo's black hat is lost in his room .;*Donaldo's black hat is lost in his room
+ST;The presenter forgot they notebook at home. The presenter forgot his notebook at home .;*The presenter forgot his notebook at home, +The presenter forgot her notebook at home
+ST Shelly be a drummer now. Shelly is a drummer in a band now .;*Shelly is a drummer in a band now
+ST;Lola has a teacher of a school. Lola is a teacher at a school .;*Lola is a teacher at a school
+ST;We are happy with there performance . We are happy with their performance .;*We are happy with their performance 
+ST;Shanas kids toys are all over the floor. Shana's kids' toys are all over the floor .;*Shana's kids' toys are all over the floor
+ST;He papers are well written. His papers are well written .;*His papers are well written
+True or False - Choose whether the sentence about possessive adjectives is true or false.
+BIN;To talk about the things we have, we can use possessive adjectives. ;*True, False
+BIN;Possessive adjectives change with the person or subject, not the thing. ;*True, False
+BIN;Possessive adjectives come after the noun they are talking about.;True, *False
+BIN;This is a correct sentence using a possessive adjective: \"Bag my is big.\";True, *False
+BIN;\"My\" is the possessive adjective used with the subject pronoun \"I.\" ;*True, False
+BIN;\"Her\" is the possessive adjective used with the subject pronoun \"She\" and \"He.\" ;True, *False
+BIN;If you use the person's name, you don't use the possessive pronoun - we use the subject plus apostrophes.;*True, False
+BIN;When we have two names, we only use one apostrophy and always on the first name we say.;True, *False
+BIN;This is a correct sentence using a possessive adjective: \"John's and Kate house is white.\" ;True, *False
+BIN;For singular and plural second person subjects, \"Your\" is the same in both cases.;*True, False
+
+Class 12
+12. Demonstrative Adjectives
+Correct or Incorrect - Chose whether these sentences are correct or incorrect in their use of demonstrative adjectives.
+BIN;This is my house. Those is Don's house.;Correct, *Incorrect
+BIN;These flowers are lovely. That flowers are not.;Correct, *Incorrect
+BIN;This glass is full. That glass is empty.;*Correct, Incorrect
+BIN;These is my friends. ;Correct, *Incorrect
+BIN;Those movies are classic.;*Correct, Incorrect
+BIN;This is my friends.; Correct, *Incorrect
+BIN;Those onions are rotten.; *Correct, Incorrect
+BIN;These waves are nice for surfing. ; *Correct, Incorrect
+BIN;This dog is friendly but those dog is not.; Correct, *Incorrect
+BIN;This book is interesting.; *Correct, Incorrect
+Multiple Choice - Choose the correct demonstrative adjective to complete the sentence.
+MC;These are my gloves and those are yours.;*those, this, that
+MC;This is my sister Mona.;Those, They, *This
+MC;This is my bed and that is yours.;those, *that, these
+MC;Those who were injured were carried on helicopters.;*Those, That, This
+MC;They are plowing the road. They do this after every snow storm.;them, *this, that
+MC;That beach was quite popular last year. ;*That, Those, They
+MC;What do those signs say?;this, *those, them
+MC;Wasn't that a lovely thing to say?;*that, those, there
+MC;Did you see that bug?;them, *that, those
+MC;He left that job months ago.;*that, those, them
+Multiple Choice - Choose the correct demonstrative adjective to complete the sentence.
+MC;Dad is mowing the lawn. He does this every day in summer.;them, *this, that
+MC;That play was a hit last summer. ;*That, Those, They
+MC;What do those things do?;this, *those, them
+MC;These are my CDS and those books are yours.;*those, this, that
+MC;This is my favorite day of the week.;Those, They, *This
+MC;That's your computer for today.;those, *that, these
+MC;Those aren't things. You shouldn't touch them.;*those, this, that
+MC;This just isn't my day.;Those, They, *This
+MC;What do those directions on the map say?;this, *those, them
+MC;Wasn't that a slow movie?;*that, those, there
+
+Class 13
+13. Simple Present: Regular
+Fill the Blanks - Fill in the blanks with the correct regular present tense conjugation of the verb in ().
+FB;She likes (like) music.;*likes
+FB;His father drives (drive) to work.;*drives
+FB;I draw (draw) pictures at the zoo.;*draw
+FB;They participate (participate) in many activities at the club.;*participate
+FB;We dance (dance) Samba at Carnaval.;*dance
+FB;Patrick, Carlos and Shannon walk (walk) in the forest at night.;*walk
+FB;Brad Pitt performs (perform) in many North American films.;*performs
+FB;Shoshana only eats (eat) vegetables. ;*eats
+FB;Daniel and I travel (travel) to the country often.;*travel
+FB;The music sounds (sound) loud!;*sounds
+Fill the Blanks - Fill in the blanks with the correct regular present tense conjugation. Choose from the following words: to befriend, to believe, to cook, to host, to listen, to make, to mold, to star, to talk, to write. 
+FB;Her mother cooks a lot of meat.;*cooks
+FB;I listen to music at work.;*listen
+FB;They host a picnic each year at the club. ;*host
+FB;We believe it is important to relax on vacation.;*believe
+FB;Stephanie Meyer and JK Rowling write books for young people.;*write
+FB;The actress stars in French films.;*stars
+FB;The neighbors talk so loud!;*talk
+FB;The restaurant makes really good sandwiches.;*makes
+FB;I mold bowls out of clay.;*mold
+FB;Rebecca only befriends the boys in her classes. ;*befriends
+Sentence Construction - Use the given words to construct a complete and correct sentence in the present tense. Remember to conjugate each verb in the present tense. 
+SC;of / sister / meat / lot / My / a / to eat / red My sister eats a lot of red meat .;My sister eats a lot of red meat
+SC;movie / a/ hillarious / That / offensive / to star / but / actors That movie stars hillarious but offensive actors !;*That movie stars a hillarious but offensive actors
+SC;our / We / to hate / neighbors We hate our neighbors !;*We hate our neighbors
+SC;Thursday / on / you / to play / Do / tennis Do you play tennis on Thursday ?;*Do you play tennis on Thursday
+SC;day / all / green / Pandas / bamboo / to chew Pandas chew green bamboo all day .;*Pandas chew green bamboo all day
+SC;zoo / help / to hire / the / students / to / animals / The / with The zoo hires students to help with the animals .;*The zoo hires students to help with the animals
+SC;hat / the / work / city / to / in / man / a / The / to wear The man wears a hat to work in the city .;*The man wears a hat to work in the city
+SC;to dance / tango / Wednesday / the / nights / couple / on The couple dances tango on Wednesday nights .;*The couple dances tango on Wednesday nights,+On Wednesday nights the couple dances tango
+SC;company / each / to order / The / Thursday / the / pizza The company orders pizza each Thursday .;*The company orders pizza each Thursday
+SC;sports / to enjoy / do / you Do you enjoy sports ?;*Do you enjoy sports
+
+Class 14
+14. Simple Present: Irregular
+Multiple Choice - Choose the correct form of the verb in simple present to complete the sentence.
+MC;He proposes his idea to the agency.;propose, *proposes, proposeses
+MC;The manager goes to lunch at 3:00 in the afternoon.;gos, gose, *goes
+MC;Franny always cries after that commercial.;*cries, crys, cryes
+MC;The plane flies during the holiday season.;flys, flyes, *flies
+MC;The car crosses the street at the light. ;*crosses, cross, crost
+MC;Tomas has a toothache.;haves, *has, have
+MC;Shandra is a lawyer.;*is, be, bes
+MC;My sister kisses her boyfriend in the street.;kiss, kissyes, *kisses
+MC;Our friend carries a backpack on his hike.;carrys, *carries, carry 
+MC;The couple marries in summer.;*marries, marrys, marryes
+Multiple Fill the Blanks - Fill in the blanks to complete the passage using the correct present tense conjugation of the following verbs: to carry, to say, to see, to travel, to bring, to dance, to need, to know, to rehearse, to spend, to be, to eat.
+FBM;There are many things dancers need to do before a show. They rehearse for many hours. Also, it is important that their bodies are conditioned. This means they should eat a healthy diet. They also spend a lot of money on costumes and shoes. I know this because my sister is a professional dancer. She dances with a group in New York City. She travels all over the world to places like Paris, Rome, Sydney, San Francisco, and Tokyo. She says that she is often tired during a tour. For this, she always carries a pillow with her to take naps. My family and I see many of her performances. We bring flowers for her and she tries to thank us by waving from the stage. ;need, rehearse, are, eat, spend, know, dances, travels, says, carries, see, bring, 
+
+Class 15
+15. Negation & The Simple Present
+Sentence Order - Put the given words in the correct order to form a sentence in the simple present. 
+SO;money / for / have / I / bus / don't / the I don't have money for the bus .;*I don't have money for the bus 
+SO;enjoy / parties / doesn't / friends / with / Patricia Patricia doesn't enjoy parties with strangers . ;*Patricia doesn't enjoy parties with strangers 
+SO;don't / in / dogs / the / They / park / allow They don't allow dogs in the park .;*They don't allow dogs in the park
+SO;and / the / I / My / at / answer / do / door / mother / night / not My mother and I do not answer the door at night . ;*My mother and I do not answer the door at night
+SO;many/ doesn't / His / colors / tattoo / have / His tattoo doesn't have many colors .;*His tattoo doesn't have many colors
+SO;a / dance / doesn't / partner / with / Liz Liz doesn't dance with a partner . ;*Liz doesn't dance with a partner 
+SO;don't / in / organized / religion / They / believe They don't believe in organized religion .;*They don't believe in organized religion
+SO;and / the / I / My / on / speak / do / phone / father / night / not My father and I do not speak on the phone . ;*My father and I do not speak on the phone
+SO;argue / to / have / I / time / don't / now I don't have time to argue now .;*I don't have time to argue now 
+SO;a/ doesn't / His / backyard / house / have His house doesn't have a backyard .;*His house doesn't have a backyard
+Sentence Transformation - Turn this simple present sentence into a question. Use the conjunction when possible.
+ST;I have twenty dollars to spend on cheese. I don't have twenty dollars to spend on cheese .;*I don't have twenty dollars to spend on cheese
+ST;He always tries to be nice. He doesn't always try to be nice .;*He doesn't always try to be nice
+ST;The man listens well. The man doesn't listen well .;*The man doesn't listen well
+ST;Peggy dresses conservatively for work. Peggy doesn't dress conservatively for work .;*Peggy doesn't dress conservatively for work
+ST;I take criticism well. I don't take criticism well . ;*I don't take criticism well
+ST;The bathroom stays clean at the bus station. The bathroom doesn't stay clean at the bus station .;*The bathroom doesn't stay clean at the bus station
+ST;Their house floods when it rains. Their house doesn't flood when it rains .;*Their house doesn't flood when it rains
+ST;She love to eat strawberries. She doesn't love to eat strawberries .;*She doesn't love to eat strawberries
+ST;I like to talk bad about other people. I don't like to talk bad about other people .;*I don't like to talk bad about other people
+ST;We rent our apartment. We don't rent our apartment .;*We don't rent our apartment
+
+Class 16
+16. Frequency Adverbs
+Reading Comprehension - Read the passage that makes use of frequency adverbs and answer the questions about it.
+RC;On Monday, Tuesday, Thursday and Friday the students at summer camp have art lessons. On Tuesday and Thursday they do sports. Two times a month they play soccer. Five times month they run. One time a month they play baseball. Everyday they eat lunch at 1:00 in the afternoon. After they go home.;
+MC;The student usually have art lessons.;*usually, never, sometimes
+MC;What sport do the students hardly ever do?;soccer, run, *baseball
+MC;What sport do the students usually do?;soccer, *run, baseball
+MC;The students never eat lunch at home when they are at camp.;always, *never, usually
+True or False - Choose whether the sentence about frequency adverbs is true or false.
+BIN;Use simple present to talk about habits and routines. ;*True, False
+BIN;When we talk about habits and routines, it's common to talk about frequency.;*True, False
+BIN;\"Always\" is all the time, every day, no possibility that it changes.;*True, False
+BIN;100% is the same as saying \"Always.\";*True, False
+BIN;The opposite of \"Always\" is \"Forever.\";True, *False
+BIN;0% is the same as saying \"Never.\";*True, False
+BIN;There are 100 words to talk about frequency. ;True, *False
+BIN;We say \"Usually\" to talk about what I plan to do or about my routine.;*True, False
+BIN;We say \"Often\" to talk about actions that are not a part of my plans. ;True, *False
+BIN;We use \"Sometimes\" to talk about something occasionally. ;*True, False
+BIN;\"Sometimes\" is more frequent than \"Always.\" ; True, *False
+BIN;We use \"Hardly ever\" to talk about an action that we do very rarely.; *True, False
+BIN;Usually = 80-95% of the time; *True, False
+BIN;Often = 60-80% of the time; *True, False
+BIN;Sometimes = 0% of the time; True, *False
+
+Class 17
+17. Yes/No Questions in Present
+Sentence Transformation - Write the present tense question that would go before each answer. Use the pronoun and conjunction when possible.
+ST;I do the dishes at home. Do you do the dishes at home ?;*Do you do the dishes at home
+ST;She watches cartoons on Saturday mornings. Does she watch cartoons on Saturday mornings ?;*Does your aunt watch cartoons on Saturday mornings
+ST;They do not allow pets in the apartment. Do they allow pets in the apartment ?;*Do they allow pets in the apartment
+ST;I don't like his personality. Do you like his personality ?;*Do you like his personality
+ST;My parents like to travel in a car. Do your parents like to travel in a car ?;*Do your parents like to travel in a car
+ST;She washes dishes at the bar. Does she wash dishes at the bar ?;*Does she wash dishes at the bar
+ST;They do not admit patients after midnight. Do they admit patients after midnight ?;*Do they admit patients after midnight
+ST;I do the laundry every other day. Do you do the laundry every other day ?;*Do you do the laundry every other day
+ST;She listens to jazz for inspiration. Does she listen to jazz for inspiration ?;*Does she listen to jazz for inspiration
+ST;My boyfriend likes to camp in the forest. Does your boyfriend like to camp in the forest ?;* Does your boyfriend like to camp in the forest
+Sentence Transformation - Write the present tense question that would go before each answer. Use the pronoun and conjunction when possible.
+ST;Do you sing in the shower? I don't sing in the shower .;*I don't sing in the shower, *I do sing in the shower 
+ST;Does your mother drink beer? She does drink beer .;*She does drink beer, +She doesn't drink beer
+ST;Does your grandfather fish? He does fish . ;*He does fish, +He doesn't fish
+ST;Does the World Cup happen every year? It doesn't happen every year .;*It doesn't happen every year
+ST;Do you and your wife have children? We do have children .;*We do have children, +We don't have children
+ST;Does the Mexican restaurant make their own tortillas? They do make their own tortillas .;*They do make their own tortillas, +They don't make their own tortillas
+ST;Do you like movies? I do like movies .;*I do like movies, +I don't like movies
+ST;Does your dad live with you? He does live with us .;*He does live with us, +He doesn't live with us
+ST;Does your university accept new students often? They do accept new students often .;*They do accept new students often, +They don't accept new students often 
+ST;Does that team have women players? That team does have women players;*That team does have women players, +That team doesn't have women players
+
+Class 18
+18. Information Questions
+True or False - Choose whether the sentence about information questions is true or false.
+BIN;To ask a question that tells us more information, add a word or a group of words to the beginning of the question. ;*True, False
+BIN;QASI is the structure for some types of questions in English.;*True, False
+BIN;Question word AntonymSubjectInfinitive =QuASI/QASI;True, *False
+BIN;We use \"What\" = to ask about things ;*True, False
+BIN;We say \"Which\" = to ask to choose between 2 or more specific things;*True, False
+BIN;You use \"Where\" = to ask about time;True, *False
+BIN;I say \"When\" = to ask about location;True, *False
+BIN;I use \"Why\" = to ask for an explanation;*True, False
+BIN;I use \"Who\" = to ask about people;*True, False
+BIN;We use \"How (often, much, many)\" = to ask about the way you do something.;*True, False
+BIN;\"How much\" is the typical question we use to ask where you bought something.;True, *False
+Fill the Blanks - Fill in the correct question word to complete each sentence.
+FB;How old are you?;*How
+FB;Where do you live?;*Where
+FB;When do you take the train?;*When, +why
+FB;Which classes should I take next semester?;*Which
+FB;Why did you lie about the results?;*Why
+FB;Who is your favorite performer?;*Who
+FB;What do you want to do in the future?;*What
+FB;Which door is the exit?;*Which
+FB;Where is the bathroom?;*Where
+FB;How many days will you be in Brazil?;*How
+Fill the Blanks - Fill in the correct question word to complete each sentence.
+FB;Why did you come here?;*Why
+FB;Who is the man in this photo?;*Who
+FB;What should we do with all this leftover food?;*What
+FB;Which train will take me uptown?;*Which
+FB;Where are your manners?;*Where
+FB;How many more hours will you be at work?;*How
+FB;How are we going to finish this project on time?;*How
+FB;Where can I get a good bite to eat?;*Where
+FB;When do you study, at night or in the morning?;*When
+FB;Which days will you be flying?;*Which
+
+Class 19
+19. Present Progressive 
+Fill the Blanks - Change the infinitive verb into its gerund form.
+FB;Walk Walking;Walking
+FB;Run Running;Running
+FB;Make Making;Making
+FB;Say Saying;Saying
+FB;Dance Dancing;Dancing
+FB;Swim Swimming;Swimming
+FB;Talk Talking ;Talking
+FB;Kiss Kissing;Kissing
+FB;Play Playing;Playing
+FB;Sit Sitting;Sitting
+Fill the Blanks - Change the gerund form of the verb into its infinitive.
+FB;Touch Touching;Touch
+FB;Watch Watching;Watch
+FB;Fly Flying;Fly
+FB;Hide Hiding;Hide
+FB;Joke Joking;Joke
+FB;Wonder Wondering;Wonder
+FB;Drink Drinking;Drink
+FB;Shout Shouting;Shout
+FB;Press Pressing;Press
+FB;Look Looking;Look
+Sentence Order - Put the given words in the correct order to form a sentence in present progressive.
+SO;an / is / exam / studying / She / for She is studying for an exam .;*She is studying for an exam
+SO;on / am / computer / I / the / typing I am typing on the computer .;*I am typing on the computer
+SO;at / Japanese / Their / school / son/ learning / is Their son is learning Japanese at school .;*Their son is learning Japanese at school
+SO;hiring / waiters / are / at / new / We / restaurant / the We are hiring a new waiters at the restaurant .;*We are hiring a new waiters at the restaurant
+SO ;are / leave / not / planning / now / to / You You are not planning to leave now !;*You are not planning to leave now
+SO;singing / not / in / I / the / am / show I am not singing in the show .;*I am not singing in the show 
+SO;living / Vietnam / in / They / are They are living in Vietnam .;*They are living in Vietnam 
+SO;and / are / now / I / breakfast / David / eating David and I are eating breakfast now .;*David and I are eating breakfast now
+SO;your / enjoying / time / aren't / Italy / in / You You aren't enjoying your time in Italy ? ;*You aren't enjoying your time in Italy
+SO;is / president / running / Maria / for Maria is running for president .;Maria is running for president
+
+Class 20
+20. Stative Verbs
+Multiple Choice - Chose if the verb is stative or active. Some verbs can be both.
+MC;Love;*Stative, Active
+MC;Run;Stative, *Active
+MC;Know;*Stative, Active
+MC;Speak;Stative, *Active
+MC;Write;Stative, *Active
+MC;Check;Stative, *Active
+MC;Wish;*Stative, *Active
+MC;Make;Stative, *Active
+MC;Like;*Stative, Active
+MC;Build;Stative, *Active
+Multiple Choice - Chose if the verb is stative or active. Some verbs can be both.
+MC;Remember;*Stative, Active
+MC;Think;*Stative, *Active
+MC;Have;*Stative, *Active
+MC;Want;*Stative, Active
+MC;Look;Stative, *Active
+MC;Sing;Stative, *Active
+MC;Dance;Stative, *Active
+MC;Walk;Stative, *Active
+MC;Feel;*Stative, *Active
+MC;Play;Stative, *Active
+Multiple Choice - Chose if the sentence uses a stative or active verb. 
+
+MC;I think she should work harder on her math.;*Stative, Active
+MC;Don belongs to the sports club in the city.;*Stative, Active
+MC;I love your new haircut.;*Stative, Active
+MC;She's joining a glee club.;Stative, *Active
+MC;We are going to join the sports club in the city.;Stative, *Active
+MC;He knew nothing about the book.;*Stative, Active
+MC;Loving you is a difficult thing to do.;Stative, *Active
+MC;My daughter hates math so much this year.;*Stative, Active
+MC;I hope that the students do well today.;*Stative, Active
+MC;I am tasteing the soup.;Stative, *Active
+Multiple Choice - Choose the correct present or present progressive tense verb to complete each sentence.
+MC;We prefer to go to the movies than stay home.;*prefer, are prefering
+MC; I have three cats.;*have, am having
+MC;He is having a party tomorrow night.;has, *is having
+MC; I am watching a movie right now.;watch, *am watching
+MC;They love dancing.;*love, are loving
+MC;Mel thinks cartoons are stupid.;*thinks, is thinking
+MC;Bill is thinking about what he wants to do after graduation.;thinks, *is thinking
+MC;She knows how to speak three languages.;*knows, is knowing
+MC;She is talking right now, so she can't read to you.;talks, *is talking
+MC; I hate studying for exams.;hate, *am hating
+
+Class 21
+21. Prepositions: \"to,\" \"from\"
+Correct or Incorrect - Chose whether the sentence is correct or incorrect in its use of the prepositions \"To\" and \"From.\"
+BIN;I am going to work now.;*Correct, Incorrect
+BIN;Bill walks to his house to the bus stop. ;Correct, *Incorrect
+BIN;The mall is open to 9:00 in the morning from 11:00 in the evening. ;Correct, *Incorrect
+BIN;Heidi was an anthropologist from 1993 to 2000.;*Correct, Incorrect
+BIN;She rides her bike from Mexico City to Tegucigalpa every summer. ;*Correct, Incorrect
+BIN;From here to Madrid it's 13 hours.;*Correct, Incorrect
+BIN;To school it is only a 5 minute bike ride.;*Correct, Incorrect
+BIN;I will go from school from work.;Correct, *Incorrect
+BIN;Will we leave from your house or mine?;*Correct, Incorrect
+BIN;She came from New York City from Mississippi with only $10.;Correct, *Incorrect
+Correct or Incorrect - Chose whether the sentence is correct or incorrect in its use of the prepositions \"To\" and \"From.\"
+BIN;He's going to store.;*Correct, Incorrect
+BIN;Go to the mall to the cinema. ;Correct, *Incorrect
+BIN;The park is closed from December to May. ;*Correct, Incorrect
+BIN;Devin served in the military to 1993 from 2000.;Correct, *Incorrect
+BIN;Helen drove her car from Moscow to St. Petersburg every weekend. ;*Correct, Incorrect
+BIN;From the capital it's on a 25 minute bus ride.;*Correct, Incorrect
+BIN;Amy walks five minutes to campus.;*Correct, Incorrect
+BIN;He goes from the restaurant to the club each night.;*Correct, Incorrect
+BIN;Will we leave from the bar?;*Correct, Incorrect
+BIN;She is to California;Correct, *Incorrect
+
+Class 22
+22. Using \"It\" with Time / Weather
+Multiple Choice - Choose the opposite of each weather related word.
+MC;Cold;Rainy, *Hot, Sunny
+MC;Spring;Winter, *Fall, Spring
+MC;Warm;*Cool, Hot, Summer
+MC;Foggy;*Clear, Rainy, Winter
+MC;Clouds;Rain, *Sun, Snow
+Fill the Blanks - Fill in the blanks with the correct temperature adjective. Choose from the following words: warm, cold, cool, hot.
+FB;We swim in the pool when it's hot.;*hot
+FB;It often snows when it's cold.;*cold
+FB;The Caribbean Sea is blue and warm.;*warm
+FB;The hot sun burned my skin.;*hot
+FB;The ocean breeze makes the air cool at night.;*cool
+Sentence Order - Put the given weather related words in the correct order.
+SO;the / go / When / warm / we / mountains / it's / to When it's warm we go to the mountains .;*When it's warm we go to the mountains
+SO;it's / it's / outside / When / cool / midnight When it's midnight it's cool outside .;*When it's midnight it's cool outside
+SO;rainy / your / so / It's / umbrella / bring It's rainy so bring your umbrella !;*It's rainy so bring your umbrella
+SO;the / sun / protects / the / baby / babysitter/ from / sunny / The / it's / when The babysitter protects the baby from the sun when it's sunny .;*The babysitter protects the baby from the sun when it's sunny
+SO;very / drive / foggy / so / It's / carefully / today It's very foggy today so drive carefully . ;It's very foggy today so drive carefully
+SO;today / go / so / It's / we / hot / swimming / should It's hot today so we should go swimming .;It's hot today so we should go swimming
+SO;is / rain / The / the / wet / ground / from The ground is wet from the rain .;The ground is wet from the rain
+SO;are / igloo / The / building / snow / children / with / an / the The children are building an igloo with the snow .;The children are building an igloo with the snow 
+SO;is / sunblock / sunny / wear / days / On / to / it / important On sunny days it is important to wear sunblock;On sunny days it is important to wear sunblock
+SO;from / windy / the / the / too / clothes / clothes / line/ if/ Bring / it / in / is Bring the clothes in from the clothes line if it is too windy .;Bring the clothes in from the clothes line if it is too windy
+
+Class 23
+23. Telling Time
+Fill the Blanks - Write the time.
+FB;Ten to Five in the afternoon 4:50pm;*4:50pm
+FB;Quarter past Eight in the morning 8:15am;*8:15am
+FB;3:00 Three o'clock;*Three o'clock
+FB;Half past Eleven at night 11:30pm;*11:30pm
+FB;Noon 12:00pm;*12:00pm
+FB;Quarter to 11 in the morning 10:45am;*10:45am
+FB;2:40am Two forty in the morning;*Two forty in the morning, *Twenty to Three in the morning
+FB;Twelve past Six in the afternoon 6:12pm;*6:12pm
+FB;Midnight 12:00am;*12:00am
+FB;Two to Midnight 11:58pm;*11:58pm
+Multiple Choice - Choose the correct time to complete the sentence.
+MC;A boy starts eating his cookies at 5:30 and it takes 15 minutes. What time does he finish?;five thirty, five forty,*five forty-five
+MC;I get home from school at four o'clock and I eat dinner six hours later. What time will I eat?;*10:00pm, 12:00am, 10:30am
+MC;On Friday afternoon, we have lunch time at half past one and we start music class one hour later. What time do we start music?;1:30pm,*2:30pm, 2:00pm 
+MC;Cheny went jogging at 10:25 and he was away for 3 hours and 30 minutes. What time did she return home?;one past fifty-five, one thirty-five,*one fifty-five
+MC;I went shopping at 1:30 and arrived home at 3:23. How long was I out?;*one hour and fifty-three minutes, two hours and seven minutes, fifty minutes
+
+Class 24
+24. Ordinal Numbers
+Fill the Blanks - Write the date.
+FB;The first of May nineteen twelve 5/1/1912;*5/1/1912
+FB;July eighteenth of two thousand seven 7/18/2007;*7/18/2007
+FB;11/1/1985 November first nineteen eighty-five;*November first nineteen eighty-five, *The first of November nineteen eighty-five
+FB;Christmas 12/25;*12/25, *December twenty-fifth
+FB;March thirtieth seventeen hundred 3/30/1700;*3/30/1700
+Correct or Incorrect - Choose whether the sentence is correct or incorrect in its use of ordinal numbers.
+BIN;October is the tenth month of the year.;*Correct, Incorrect
+BIN;April is the second month of the year.;Correct, *Incorrect
+BIN;December is the last month of the year.;*Correct, Incorrect
+BIN;January is the frost month of the year.;Correct, *Incorrect
+BIN;The third month of the year is March.;*Correct, Incorrect
+BIN;The second to last month of the year is November.;*Correct, Incorrect
+BIN;The May is the fiftieth month of the year.;Correct, *Incorrect
+BIN;June is in the middle of the year.;*Correct, Incorrect
+BIN;After June comes July.;*Correct, Incorrect
+BIN;August is the eightieth month of the year.;Correct, *Incorrect
+Reading Comprehension - Read the passage that makes use of ordinal numbers and answer the questions about it.
+RC;My name is Robin. I have two brothers. John was born in 1985, I was born in 1980, and Eric was born in 1997. We often play sports together with our friends. Baseball is our favorite sport. We play in a league. I usually play first base but my favorite position is second base. Eric is the catcher and John plays third base. Our team lost many games this year. We played against eight teams and lost every game! We are last place in the league. Our cousin's team did not loose any games. We feel jealous of their championship title.; 
+MC;John was the first born.;True,*False
+MC;What position does Robin play?;*first base, second base, catcher
+MC;What position does Robin prefer to play?;first base,*second base, third base
+MC;What place did Robin and her brothers get in the league?;third, fourth,*eighth
+MC; What place did their cousin's team probably get in the league? ;last, second,*first
